@@ -1,4 +1,4 @@
-# -------------------------------
+# --------------------------------
 # BP helpers (classification)
 # -------------------------------
 def classify_bp(systolic: int, diastolic: int) -> tuple[str, str]:
